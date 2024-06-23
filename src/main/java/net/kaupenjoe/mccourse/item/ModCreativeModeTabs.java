@@ -25,6 +25,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.RAW_BLACK_OPAL);
 
                         pOutput.accept(ModItems.CHAINSAW);
+                        pOutput.accept(ModItems.TOMATO);
 
                     }).build());
 

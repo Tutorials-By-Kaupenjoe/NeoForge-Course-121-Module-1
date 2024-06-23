@@ -1,6 +1,5 @@
 package net.kaupenjoe.mccourse.item.custom;
 
-import net.minecraft.client.multiplayer.ClientLevel;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.tags.BlockTags;
