@@ -16,6 +16,9 @@
 
   "block.mccourse.magic_block": "Magic Block",
 
+  "block.mccourse.black_opal_stairs": "Black Opal Stairs",
+  "block.mccourse.black_opal_slab": "Black Opal Slab",
+
 
   "tooltip.mccourse.chainsaw.tooltip.shift": "Press §eShift§r for more Information!",
   "tooltip.mccourse.chainsaw.tooltip.1": "This chainsaw is awesome and will cut down trees!",
