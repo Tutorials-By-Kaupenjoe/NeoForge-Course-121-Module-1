@@ -23,6 +23,8 @@
   "block.mccourse.black_opal_fence": "Black Opal Fence",
   "block.mccourse.black_opal_fence_gate": "Black Opal Fence Gate",
   "block.mccourse.black_opal_wall": "Black Opal Wall",
+  "block.mccourse.black_opal_door": "Black Opal Door",
+  "block.mccourse.black_opal_trapdoor": "Black Opal Trapdoor",
 
 
   "tooltip.mccourse.chainsaw.tooltip.shift": "Press §eShift§r for more Information!",
