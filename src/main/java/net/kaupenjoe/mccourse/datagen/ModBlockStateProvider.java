@@ -34,10 +34,14 @@ public class ModBlockStateProvider extends BlockStateProvider {
         pressurePlateBlock(((PressurePlateBlock) ModBlocks.BLACK_OPAL_PRESSURE_PLATE.get()), blockTexture(ModBlocks.BLACK_OPAL_BLOCK.get()));
         buttonBlock(((ButtonBlock) ModBlocks.BLACK_OPAL_BUTTON.get()), blockTexture(ModBlocks.BLACK_OPAL_BLOCK.get()));
 
+        fenceBlock(((FenceBlock) ModBlocks.BLACK_OPAL_FENCE.get()), blockTexture(ModBlocks.BLACK_OPAL_BLOCK.get()));
+        fenceGateBlock(((FenceGateBlock) ModBlocks.BLACK_OPAL_FENCE_GATE.get()), blockTexture(ModBlocks.BLACK_OPAL_BLOCK.get()));
+        wallBlock(((WallBlock) ModBlocks.BLACK_OPAL_WALL.get()), blockTexture(ModBlocks.BLACK_OPAL_BLOCK.get()));
+
         blockItem(ModBlocks.BLACK_OPAL_STAIRS);
         blockItem(ModBlocks.BLACK_OPAL_SLAB);
-
         blockItem(ModBlocks.BLACK_OPAL_PRESSURE_PLATE);
+        blockItem(ModBlocks.BLACK_OPAL_FENCE_GATE);
     }
 
     private void blockWithItem(DeferredBlock<Block> deferredBlock) {

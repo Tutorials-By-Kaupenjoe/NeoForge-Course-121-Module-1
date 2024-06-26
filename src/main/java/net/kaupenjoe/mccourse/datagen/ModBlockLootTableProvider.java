@@ -45,6 +45,10 @@ public class ModBlockLootTableProvider extends BlockLootSubProvider {
 
         dropSelf(ModBlocks.BLACK_OPAL_PRESSURE_PLATE.get());
         dropSelf(ModBlocks.BLACK_OPAL_BUTTON.get());
+
+        dropSelf(ModBlocks.BLACK_OPAL_FENCE.get());
+        dropSelf(ModBlocks.BLACK_OPAL_FENCE_GATE.get());
+        dropSelf(ModBlocks.BLACK_OPAL_WALL.get());
     }
 
     protected LootTable.Builder createMultipleOreDrops(Block pBlock, Item item, float minDrops, float maxDrops) {

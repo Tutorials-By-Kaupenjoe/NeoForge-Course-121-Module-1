@@ -52,6 +52,10 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModBlocks.BLACK_OPAL_PRESSURE_PLATE);
                         pOutput.accept(ModBlocks.BLACK_OPAL_BUTTON);
 
+                        pOutput.accept(ModBlocks.BLACK_OPAL_FENCE);
+                        pOutput.accept(ModBlocks.BLACK_OPAL_FENCE_GATE);
+                        pOutput.accept(ModBlocks.BLACK_OPAL_WALL);
+
                     }).build());
 
 
